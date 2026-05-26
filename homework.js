@@ -79,7 +79,7 @@ class Persona {
   presentarse() {
     // Devuelve: "Soy <nombre> y tengo <edad> anios."
     // Tu codigo:
-    return `Soy ${this.nombre} y tengo ${this.edad} años.`;
+    return `Soy ${this.nombre} y tengo ${this.edad} anios.`;
   }
 }
 
